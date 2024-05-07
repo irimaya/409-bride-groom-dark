@@ -1,0 +1,56 @@
+/* Responsive */
+/* @media (max-width: 768px) {
+	.mainheader .container {
+		flex-direction: column;
+		padding-top: 20px;
+		text-align: center;
+	}
+
+	.boxes .container {
+		display: block;
+		text-align: center;
+	}
+} */
+
+/* Utility Classes */
+.display-1 {
+	font-size: 3.5rem;
+}
+.display-2 {
+	font-size: 2rem;
+}
+
+.flex {
+	flex-direction: column;
+}
+
+.p-1 {
+	padding: 80px 0;
+}
+
+/* .p-2 {
+	padding: 80px 0;
+} */
+
+/* .pb-1 {
+	padding-bottom: 40px;
+} */
+/* .pb-2 {
+	padding-bottom: 15px;
+} */
+
+.pt-1 {
+	padding-top: 20px;
+}
+
+/* Header */
+#mainheader,
+#about,
+#gift {
+	text-align: center;
+}
+
+/* About */
+#about img {
+	padding-right: 0;
+}
